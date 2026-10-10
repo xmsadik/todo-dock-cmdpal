@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "TodoDock (Package)": {
+      "commandName": "MsixPackage",
+      "doNotLaunchApp": true
+    },
+    "TodoDock (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
